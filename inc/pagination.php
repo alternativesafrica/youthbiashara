@@ -21,9 +21,9 @@ if ( ! function_exists( 'understrap_pagination' ) ) {
 			array(
 				'mid_size'           => 2,
 				'prev_next'          => true,
-				'prev_text'          => __( '&laquo;', 'understrap' ),
-				'next_text'          => __( '&raquo;', 'understrap' ),
-				'screen_reader_text' => __( 'Posts navigation', 'understrap' ),
+				'prev_text'          => __( '&laquo;', 'youthafrica' ),
+				'next_text'          => __( '&raquo;', 'youthafrica' ),
+				'screen_reader_text' => __( 'Posts navigation', 'youthafrica' ),
 				'type'               => 'array',
 				'current'            => max( 1, get_query_var( 'paged' ) ),
 			)
