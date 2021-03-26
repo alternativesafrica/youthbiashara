@@ -1,4 +1,4 @@
-![AgroHub Expo](img/logo.svg)
+![Alternatives Africa](img/logo.svg)
 
 ## About
 
