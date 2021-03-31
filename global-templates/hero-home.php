@@ -16,7 +16,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 			<div class="row hero-header">
 				<div class="col-sm-6 hero-text">
 					<div class="slider-text">
-						<h2 class="big-heading">How do I make money in this economy?</h2>
+						<h1 class="big-heading">How do I make money in this economy?</h1>
 						<div class="slider-body">
 							<p class="">Be part of the ecosystem and enjoy benefits from today</p>
 							<a href="<?php echo esc_url(home_url('join-iyepa')); ?>" class="btn btn-lg btn-primary">Join today</a>
@@ -29,7 +29,7 @@ $container = get_theme_mod( 'understrap_container_type' );
                         <img src="<?php echo get_template_directory_uri(); ?>/img/hero-slider-jayfu-iregi-yed-2018.jpg"alt="" />
 					</div>
 					<div class="slider-link">
-						Stories of resilience <span class="material-icons-outlined">arrow_right_alt</span>
+						Stories of resilience <span class="material-icons">arrow_right_alt</span>
 					</div>
 				</div>
 			</div>

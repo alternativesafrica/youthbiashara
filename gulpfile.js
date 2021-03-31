@@ -80,7 +80,6 @@ gulp.task( 'imagemin', () =>
 gulp.task( 'minifycss', function() {
 	return gulp
 		.src( [
-			paths.css + '/admin-style.css',
 			paths.css + '/custom-editor-style.css',
 			paths.css + '/theme.css',
 		] )
